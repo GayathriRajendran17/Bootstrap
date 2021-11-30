@@ -1,0 +1,104 @@
+.one{
+    background-image: url(bg3.jpg);
+    background-size: cover;
+    height: 600px;
+    color:white;
+    font-weight: bold;
+}
+#centered{
+    position: absolute;
+    padding:30px
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-weight: bold;
+}
+.navbar-light .navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+.h2, h1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+}
+.rounded-pill {
+    border-radius: 50rem!important;
+    padding-left: 10px;
+    padding: 15px 30px;
+    background-color: red;
+    border: red;
+    color: white;
+    font-weight: bold;
+}
+.two{
+    background-color: rgba(211, 12, 12, 0.959);
+    background-size: cover;
+    height: 300px;
+    color:whitesmoke;
+    font-weight: bolder;
+}
+#centered2{
+    position: absolute;
+    padding-top: 50px;
+}
+#button2{
+    border-radius: 50rem!important;
+    padding-left: 10px;
+    padding: 15px 30px;
+    background-color:white;
+    border:white;
+    color:black;
+    font-weight: bold;
+}
+h5{
+    font-weight: 900;
+}
+.three{
+    padding:40px;
+}
+#yy{
+    float: left;
+    margin:0;
+    
+}
+.five{
+    padding-top: 40px;
+    color: black;
+    justify-content: center;
+    text-align: center;
+    height: 70vh;
+}
+#button3{
+    border-radius: 50rem!important;
+    padding-left: 10px;
+    padding: 15px 30px;
+    background-color: rgb(218, 135, 83);
+    border: rgb(218, 135, 83);
+    color: white;
+    font-weight: bold;
+}
+#button3:hover{
+    background-color: rgb(224, 99, 21);
+}
+
+.row {
+    display: -ms-flexbox;
+    display: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: center;
+}
+#phone{
+    position:absolute;
+    padding:20px;
+}
+#footer{
+    justify-content: center;
+    margin-top: 60px;
+}
+.col-md-4{
+    padding-right: 0;
+    padding-left: 0;
+}
